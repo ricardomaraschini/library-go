@@ -11,9 +11,8 @@ require (
 	github.com/coreos/bbolt v1.3.1-coreos.6 // indirect
 	github.com/coreos/etcd v3.3.15+incompatible
 	github.com/davecgh/go-spew v1.1.1
-	github.com/docker/distribution v0.0.0-20180920194744-16128bbac47f
+	github.com/docker/distribution v0.0.0-20200319173657-742aab907b54
 	github.com/docker/go-connections v0.3.0 // indirect
-	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/libnetwork v0.0.0-20190731215715-7f13a5c99f4b // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/evanphx/json-patch v4.2.0+incompatible
@@ -29,13 +28,11 @@ require (
 	github.com/google/go-cmp v0.3.1
 	github.com/google/uuid v1.1.1
 	github.com/googleapis/gnostic v0.2.0
-	github.com/gorilla/mux v0.0.0-20191024121256-f395758b854c // indirect
 	github.com/imdario/mergo v0.3.7
 	github.com/jteeuwen/go-bindata v3.0.8-0.20151023091102-a0ff2567cfb7+incompatible
 	github.com/kubernetes-sigs/kube-storage-version-migrator v0.0.0-20191127225502-51849bc15f17
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1
-	github.com/opencontainers/image-spec v1.0.1 // indirect
 	github.com/opencontainers/runc v0.0.0-20191031171055-b133feaeeb2e // indirect
 	github.com/openshift/api v0.0.0-20200326160804-ecb9283fe820
 	github.com/openshift/build-machinery-go v0.0.0-20200211121458-5e3d6e570160

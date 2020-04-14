@@ -45,8 +45,9 @@ github.com/coreos/go-systemd/journal
 github.com/coreos/pkg/capnslog
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
-# github.com/docker/distribution v0.0.0-20180920194744-16128bbac47f
+# github.com/docker/distribution v0.0.0-20200319173657-742aab907b54
 github.com/docker/distribution
+github.com/docker/distribution/context
 github.com/docker/distribution/digestset
 github.com/docker/distribution/manifest
 github.com/docker/distribution/manifest/schema1
@@ -61,6 +62,7 @@ github.com/docker/distribution/registry/client/auth/challenge
 github.com/docker/distribution/registry/client/transport
 github.com/docker/distribution/registry/storage/cache
 github.com/docker/distribution/registry/storage/cache/memory
+github.com/docker/distribution/uuid
 # github.com/docker/docker v0.7.3-0.20190327010347-be7ac8be2ae0
 github.com/docker/docker/api/types
 github.com/docker/docker/api/types/blkiodev
@@ -174,7 +176,7 @@ github.com/google/uuid
 github.com/googleapis/gnostic/OpenAPIv2
 github.com/googleapis/gnostic/compiler
 github.com/googleapis/gnostic/extensions
-# github.com/gorilla/mux v0.0.0-20191024121256-f395758b854c
+# github.com/gorilla/mux v1.7.2
 github.com/gorilla/mux
 # github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 github.com/grpc-ecosystem/go-grpc-prometheus
